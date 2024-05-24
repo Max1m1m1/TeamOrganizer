@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TeamOrganizer</string>
+    <string name="player"> Player Name</string>
+    <string name="position"> Position</string>
+    <string name="number">Number</string>
+    <string name="height">height</string>
+    <string name="weight">Weight</string>
+    <string name="pswd">Password</string>
+    <string name="id">ID</string>
+    <string name="loginerr">Login Error</string>
+    <string name="incorrect">Incorrect User. Please Try Again.</string>
+    <string name="ok">OK</string>
+    <string name="welcome">Welcome to TeamOrganizer</string>
+    <string name="players">Adjust Players</string>
+    <string name="playbook">Playbook</string>
+    <string name="messages">Messages</string>
+    <string name="team">Team</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="playbook_image">Playbook Images</string>
+</resources>
